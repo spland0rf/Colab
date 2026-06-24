@@ -13,6 +13,8 @@ eval_iters = 200
 n_embed = 32  # Number of embedding dimensions
 # ------------
 
+# testing commit of new change
+
 torch.manual_seed(1337)
 
 # Load Tiny Shakespeare data set from Google Drive
